@@ -51,8 +51,9 @@ Here are some concrete strategies to encourage casual users to become members:
 
 Project completed as part of my data analytics portfolio.
 
-👤 Name: SEM 
-    Username: SOLOKS]
-    🔗 See the project on Kaggle : [Notebook Cyclistic sur Kaggle](https://www.kaggle.com/code/semkamana/cyclistic-bike-share-analysis)
+👤 Soloks  
+📚 Certifié Google Data Analytics  
+🔗 [LinkedIn](https://www.linkedin.com/in/sem-kamana-54189735b)  
+🔗 See the project on Kaggle : [Notebook Cyclistic sur Kaggle](https://www.kaggle.com/code/semkamana/cyclistic-bike-share-analysis)
 
 Thanks for reading 🙏! Feel free to leave any feedback or suggestions 🚀
